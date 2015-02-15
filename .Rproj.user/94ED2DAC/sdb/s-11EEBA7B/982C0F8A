@@ -1,0 +1,16 @@
+{
+    "contents" : "---\ntitle       : test\nsubtitle    : \nauthor      : \njob         : \nframework   : io2012        # {io2012, html5slides, shower, dzslides, ...}\nhighlighter : highlight.js  # {highlight.js, prettify, highlight}\nhitheme     : tomorrow      # \nwidgets     : []            # {mathjax, quiz, bootstrap}\nmode        : selfcontained # {standalone, draft}\nknit        : slidify::knit2slides\n---\n\n## Read-And-Delete\n\n1. Edit YAML front matter\n2. Write using R Markdown\n3. Use an empty line followed by three dashes to separate slides!\n\n--- .class #id \n\n## Slide 2\n\ntest2\n\n\n",
+    "created" : 1424036211970.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1227259278",
+    "id" : "982C0F8A",
+    "lastKnownWriteTime" : 1424036280,
+    "path" : "~/GitHub/test/testDeck/index.Rmd",
+    "project_path" : "testDeck/index.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
